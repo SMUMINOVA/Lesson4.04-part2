@@ -18,8 +18,8 @@ namespace part2
             public Employee(){
 
             }
-            
-
+            public int[] post = {1500, 2500, 3500, 5000};
+            public int[] service = {100, 200, 300, 400, 500};            
         }
     }
 }
